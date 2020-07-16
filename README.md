@@ -1,6 +1,6 @@
 ## Cocktail Party Speech Dataset
 
-This dataset contains binaurally-rendered audio for testing "cocktail party". Each audio file contains a target talker and 0-6 distracting talkers. The test_set.csv file outlines each file, the number of distractors the file contains, the rendering method, and the target transcript. The audio files can be downloaded here: [test_audio.tar.gz](#).
+This dataset contains binaurally-rendered audio for testing speech isolation and recognition systems on "cocktail party" scenarios. Each audio file contains a target talker and 0-6 distracting talkers. The test_set.csv file outlines each file, the number of distractors the file contains, the rendering method, and the target transcript. The audio files can be downloaded here: [test_audio.tar.gz](#).
 
 The human_participant_responses folder contains the participant responses on the test audio. Punctuation has been removed with the exception of the apostrophes/single quote characters, which have been replaced with  underscores.
 
